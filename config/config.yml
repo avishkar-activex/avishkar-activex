@@ -1,0 +1,6 @@
+services:
+  externalip: localhost
+  host: localhost
+  protocol: http
+  scheduling_svc:
+    port: 8001
